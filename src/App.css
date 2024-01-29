@@ -1,4 +1,4 @@
-@charset "utf-8";
+@charset "UTF-8";
 
 * {
   margin: auto;
@@ -6,10 +6,10 @@
 }
 
 .container {
-  max-width: 500px;
+  max-width: 350px;
   margin: 30px auto;
   overflow: auto;
-  min-height: 300px;
+  min-height: 500px;
   border: 2px solid chartreuse;
   padding: 30px;
   border-radius: 10px;
